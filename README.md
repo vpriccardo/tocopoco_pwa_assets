@@ -1,0 +1,1 @@
+# tocopoco_pwa_assets
